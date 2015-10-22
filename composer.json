@@ -5,7 +5,7 @@
       "twig/twig": "1.*",
       "gnugat/PronounceableWord": "*",
       "html2text/html2text": "*",
-        "exorus/php-mime-mail-parser": "~1.7"
+        "php-mime-mail-parser/php-mime-mail-parser": "*"
     },
     "autoload": {
         "psr-4": {
